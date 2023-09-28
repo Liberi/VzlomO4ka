@@ -1,0 +1,50 @@
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.AssemblyReference.cache
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form1.resources
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Properties.Resources.resources
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.GenerateResource.cache
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.CoreCompileInputs.cache
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form2.resources
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe.config
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe.manifest
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.application
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.pdb
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.TrustInfo.xml
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.exe.manifest
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.application
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.exe
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.pdb
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe.config
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe.manifest
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.application
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.pdb
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.AssemblyReference.cache
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form1.resources
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form2.resources
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Properties.Resources.resources
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.GenerateResource.cache
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.CoreCompileInputs.cache
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.TrustInfo.xml
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.exe.manifest
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.application
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.exe
+C:\ИС-1-21\Шалыгин Эдуард\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.pdb
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe.config
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe.manifest
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.application
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.exe
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\bin\Debug\VzlomO4ka beta.pdb
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.AssemblyReference.cache
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.SuggestedBindingRedirects.cache
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form1.resources
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form2.resources
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Properties.Resources.resources
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.GenerateResource.cache
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.csproj.CoreCompileInputs.cache
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.TrustInfo.xml
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.exe.manifest
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.application
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.exe
+C:\Users\7102a\OneDrive\Рабочий стол\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka beta.pdb
+C:\Users\7102a\Source\Repos\VzlomO4ka\VzlomO4ka\obj\Debug\VzlomO4ka.Form3.resources
